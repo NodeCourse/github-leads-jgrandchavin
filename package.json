@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/NodeCourse/github-leads-jgrandchavin/issues"
   },
-  "homepage": "https://github.com/NodeCourse/github-leads-jgrandchavin#readme"
+  "homepage": "https://github.com/NodeCourse/github-leads-jgrandchavin#readme",
+  "dependencies": {
+    "@octokit/rest": "^15.8.1",
+    "ava": "^0.25.0",
+    "commander": "^2.15.1",
+    "csv-writer": "^1.0.0"
+  }
 }
