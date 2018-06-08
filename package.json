@@ -1,0 +1,19 @@
+{
+  "name": "github-leads-jgrandchavin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/github-leads-jgrandchavin.git"
+  },
+  "author": "Julien Grand-Chavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/github-leads-jgrandchavin/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/github-leads-jgrandchavin#readme"
+}
