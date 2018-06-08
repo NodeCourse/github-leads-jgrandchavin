@@ -1,5 +1,11 @@
-
-
+/**
+ * Format the date to YYYY-MM-DD
+ *
+ * @param year
+ * @param month
+ * @param day
+ * @returns {string}
+ */
 function formatDate (year, month, day) {
 
     if (month < 10) {
